@@ -1,4 +1,4 @@
-/qrequire 'pry'
+require 'pry'
 
 class Artist
   
